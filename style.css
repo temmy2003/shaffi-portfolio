@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Inter';
+    background:#EDECF5;
+    /* height: 300vh; */
+}
+
+.collapse .navbar-nav .nav-item .nav-link{
+    font-size: 21.3px;
+}
+
+.navbar-brand img{
+    width: 67px;
+    height: 84px;
+}
+.col-sm-6 .font-1{
+    font-weight: 700;
+}
+
+.col-sm-6 .font-2{
+    position: absolute;
+    left: 250px;
+    font-weight: 700;
+}
+.col-sm-6 .text-pro{
+    font-size: 28px;
+    padding-top: 6rem;
+}
+.col-sm-6 .btn {
+    margin-top: 180px;
+}
+.section2{
+    margin-top: 100px;
+}
+.about-text{
+    font-size: 21.3px;
+    line-height: 26px;
+    padding-top: 18px;
+    padding-bottom: 15%;
+
+}
+.bg-white{
+    margin-top: 80px;
+    border-radius: 50px;
+}
+
+i{
+    font-size: 30px;
+    padding-right: 12px;
+}
+.contact{
+    background-color:  #E0DBE6;
+    border-radius: 25px;
+}
+
+.list {
+    list-style: none;
+}
+.cont-acon{
+    text-decoration: none;
+    color: black;
+}
+
+@media screen and (max-width:990px){
+    .col-sm-6 .font-2{
+        position: absolute;
+        left: 110px;
+    }   
+    .navbutton{
+        display: none;
+    }
+}
