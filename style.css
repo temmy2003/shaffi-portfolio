@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    border: 1px solid red;
 }
 
 body{
@@ -82,7 +83,7 @@ i{
     .contact-img img {
         width: 300px;
     }
-    .sectiom2 .mt-5 img{
+    .mt-5 img{
         width: 300px;
     }
 }
