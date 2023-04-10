@@ -71,7 +71,18 @@ i{
         position: absolute;
         left: 110px;
     }   
-    .navbutton{
-        display: none;
+   
+    .pics{
+        width: 300px;
+        margin-top: 20px;
+    }
+    .start .btn{
+        margin-top: 10px;
+    }
+    .contact-img img {
+        width: 300px;
+    }
+    .sectiom2 .mt-5 img{
+        width: 300px;
     }
 }
